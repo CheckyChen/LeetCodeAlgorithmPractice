@@ -1,0 +1,10 @@
+D:\test\LeetCodeAlgorithm\LeetCodeAlgorithmPractice\0001.两数之和\bin\Debug\netcoreapp3.1\0001.两数之和.exe
+D:\test\LeetCodeAlgorithm\LeetCodeAlgorithmPractice\0001.两数之和\bin\Debug\netcoreapp3.1\0001.两数之和.deps.json
+D:\test\LeetCodeAlgorithm\LeetCodeAlgorithmPractice\0001.两数之和\bin\Debug\netcoreapp3.1\0001.两数之和.runtimeconfig.json
+D:\test\LeetCodeAlgorithm\LeetCodeAlgorithmPractice\0001.两数之和\bin\Debug\netcoreapp3.1\0001.两数之和.runtimeconfig.dev.json
+D:\test\LeetCodeAlgorithm\LeetCodeAlgorithmPractice\0001.两数之和\bin\Debug\netcoreapp3.1\0001.两数之和.dll
+D:\test\LeetCodeAlgorithm\LeetCodeAlgorithmPractice\0001.两数之和\bin\Debug\netcoreapp3.1\0001.两数之和.pdb
+D:\test\LeetCodeAlgorithm\LeetCodeAlgorithmPractice\0001.两数之和\obj\Debug\netcoreapp3.1\0001.两数之和.AssemblyInfoInputs.cache
+D:\test\LeetCodeAlgorithm\LeetCodeAlgorithmPractice\0001.两数之和\obj\Debug\netcoreapp3.1\0001.两数之和.AssemblyInfo.cs
+D:\test\LeetCodeAlgorithm\LeetCodeAlgorithmPractice\0001.两数之和\obj\Debug\netcoreapp3.1\0001.两数之和.dll
+D:\test\LeetCodeAlgorithm\LeetCodeAlgorithmPractice\0001.两数之和\obj\Debug\netcoreapp3.1\0001.两数之和.pdb
